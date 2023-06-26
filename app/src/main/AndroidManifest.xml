@@ -13,10 +13,7 @@
         android:theme="@style/Theme.MADPractical"
         tools:targetApi="31">
         <activity
-            android:name=".MessageGroup"
-            android:exported="false" />
-        <activity
-            android:name=".ListActivity"
+            android:name=".LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,7 +22,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ActivityList"
+            android:name=".MessageGroup"
+            android:exported="false" />
+        <activity
+            android:name=".ListActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

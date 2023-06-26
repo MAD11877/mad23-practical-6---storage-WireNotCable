@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "648338102872",
+    "firebase_url": "https://madpractical-4d7af-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "madpractical-4d7af",
+    "storage_bucket": "madpractical-4d7af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648338102872:android:fc87911be37f888dae482d",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.madpractical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648338102872-7jbrap94ojhp2q1suc2dh8etm33rhqkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sg.edu.np.mad.madpractical",
+            "certificate_hash": "d2533c19b2313f7a31044fe41de0d2f8acf3d607"
+          }
+        },
+        {
+          "client_id": "648338102872-eo0c43n58iqgv2ljkjbru2r8hrnebnv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoI8g99Vny3CawT53WTBAc900Oew7dH1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648338102872-eo0c43n58iqgv2ljkjbru2r8hrnebnv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
